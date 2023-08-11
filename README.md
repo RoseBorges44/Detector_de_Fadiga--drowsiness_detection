@@ -10,7 +10,8 @@ Utilizamos para isso o detector de marcos faciais do dlib para determinar a posi
 Quando a EAR está abaixo de um limiar definido durante um número específico de quadros consecutivos, o programa considera que a pessoa está com sinais de fadiga e aciona um alarme.
 
 <p align="center">
-  <img src="https://github.com/RoseBorges44/Facial_Landmarksl_em_Video_com_Opencv_e_Dlib/blob/ff47ca5f9b3be25f6b6538ec9183875db8b7d593/Video_Deteccao_Facial%20(1).gif" alt="Demonstração em GIF">
+  <img 
+src="https://github.com/RoseBorges44/Detector_de_Fadiga--drowsiness_detection/blob/main/Detector%20de%20fadiga.gif" alt="Demonstração em GIF">
 </p>
 
 # Estrutura do Projeto
