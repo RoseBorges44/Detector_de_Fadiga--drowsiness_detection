@@ -13,7 +13,7 @@ Quando a EAR está abaixo de um limiar definido durante um número específico d
 # Estrutura do Projeto
 A estrutura do projeto é a seguinte:
 ```bash
-.
+
 ├── alarm.wav
 ├── main.py
 ├── requirements.txt
